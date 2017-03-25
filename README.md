@@ -33,3 +33,10 @@
 - The Prediction lies between 0-1.
 - Values near to 0 signifies Female. Values near 1 signifies Male.
 - A Cross Validation Accuracy of 91.30% is achieved on the Dataset trained.
+
+## Team Members
+- Mohit Reddy (mohitreddy1996)
+- Ambareesh Prakash (AeroDeath)
+- Vilas M Bhat (vilas897)
+- Aneesh Aithal (aneesh297)
+- Somnath Sarkar (somnathsarkar)
