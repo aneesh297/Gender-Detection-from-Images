@@ -32,7 +32,7 @@
 - An additional layer (Sigmoid) is added at the flatten layer of the model.
 - The Prediction lies between 0-1.
 - Values near to 0 signifies Female. Values near 1 signifies Male.
-- A Cross Validation Accuracy of 91.30% is achieved on the Dataset trained.
+- A Cross Validation Accuracy of 90.92% is achieved on the Dataset trained.
 
 ## Team Members
 - Mohit Reddy (mohitreddy1996)
